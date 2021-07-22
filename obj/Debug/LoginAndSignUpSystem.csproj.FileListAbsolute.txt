@@ -1,0 +1,11 @@
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\bin\Debug\LoginAndSignUpSystem.exe.config
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\bin\Debug\LoginAndSignUpSystem.exe
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\bin\Debug\LoginAndSignUpSystem.pdb
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\obj\Debug\LoginAndSignUpSystem.csprojAssemblyReference.cache
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\obj\Debug\LoginAndSignUpSystem.frmRegister.resources
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\obj\Debug\LoginAndSignUpSystem.frmLogin.resources
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\obj\Debug\LoginAndSignUpSystem.Properties.Resources.resources
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\obj\Debug\LoginAndSignUpSystem.csproj.GenerateResource.cache
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\obj\Debug\LoginAndSignUpSystem.csproj.CoreCompileInputs.cache
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\obj\Debug\LoginAndSignUpSystem.exe
+C:\Users\magso\source\repos\LoginAndSignUpSystem\LoginAndSignUpSystem\obj\Debug\LoginAndSignUpSystem.pdb
